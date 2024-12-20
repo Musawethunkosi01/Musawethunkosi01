@@ -6,9 +6,9 @@
 
 - 👨‍💻 I’m currently looking for **Entry-level jobs in tech.**
 
-- 📫 How to reach me **musawethunkosi401@gmal.com**
+- 📫 How to reach me **musawethunkosi401@gmail.com**
 
-- ⚡ Fun fact **I played rugby for Shimlas.**
+- ⚡ Fun fact **I played rugby for the Shimlas.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
