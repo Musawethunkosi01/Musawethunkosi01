@@ -1,3 +1,4 @@
+<img id="HeaderImg" src="https://i.pinimg.com/enabled/564x/6b/94/9b/6b949b38a9db97d5e9d50a23279d2348.jpg">
 <h1 align="center">Hi 👋, I'm Musawethu Nkosi</h1>
 <h3 align="center">I am a Computer Information Systems Graduate</h3>
 <h3 id="About"><u>About me:</u></h3>
