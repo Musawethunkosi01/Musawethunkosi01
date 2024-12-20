@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **musawethunkosi401@gmal.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
