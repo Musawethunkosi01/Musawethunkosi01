@@ -1,4 +1,4 @@
-<img id="HeaderImg" src="m0ifSqs1.webp">
+
 <h1 align="center">Hi 👋, I'm Musawethu Nkosi</h1>
 <h3 align="center">I am a Computer Information Systems Graduate</h3>
 <h3 id="About"><u>About me:</u></h3>
