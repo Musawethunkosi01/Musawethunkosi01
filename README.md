@@ -3,9 +3,9 @@
 <h3 align="center">I am a Computer Information Systems Graduate</h3>
 <h3 id="About"><u>About me:</u></h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 I’m currently looking for **Entry-level jobs in tech.**
+- 👨‍💻 I’m currently looking for **Internships in tech.**
 
 - 📫 How to reach me **musawethunkosi401@gmail.com**
 
